@@ -13,16 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-### Full-Stack Developer 
+--> 
 
 I’m a **Full-Stack Developer** focused on building scalable web applications, backend systems, and AI-powered products.
-
 I enjoy working across the stack — from designing APIs and databases to building modern frontends and integrating **LLMs, RAG systems, and AI agents**.
 
----
 
 ## 🚀 What I Build
 
@@ -31,8 +26,6 @@ I enjoy working across the stack — from designing APIs and databases to buildi
 - 🔎 RAG & semantic search systems
 - 🧠 AI agents & LLM workflows
 - ☁️ Cloud-ready applications
-
----
 
 ### 🛠️ Tech Stack
 
